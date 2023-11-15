@@ -33,14 +33,13 @@ Building bootcamp projects. Currently coding and learning. Join the journey!
 
 ## 🛠️ Skills Showcase
 
-- **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frontend:** React, Boostrap, Sass
+- **Languages:** JavaScript (ES6+)
+- **Frontend:** React, Boostrap, HTML5, CSS3, Sass, 
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
 - **Tools:** Git, GiHub
 - **Other:** RESTful APIs
 
----
 
 ## 📱 Let's Connect
 
