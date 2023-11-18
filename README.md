@@ -12,6 +12,9 @@
 - [Rock Paper Scissors Lizard Spock](https://github.com/martindocs/rock-paper-scissors-lizard-spock)
   - The game with responsive layout, maintains score, tracks best score, and utilizes reset features.
   - **Tools Used:** 🛠️ HTML, CSS, JavaScript, Git
+- [Weather API](https://github.com/martindocs/weather-api)
+  - The weather API using The Open Weather Map. 
+  - **Tools Used:** 🛠️ HTML, CSS, JavaScript, Git
 
 ## 🏭 Explore My Organizations
 
