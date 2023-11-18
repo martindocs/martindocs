@@ -12,9 +12,6 @@
 - [Rock Paper Scissors Lizard Spock](https://github.com/martindocs/rock-paper-scissors-lizard-spock)
   - The game with responsive layout, maintains score, tracks best score, and utilizes reset features.
   - **Tools Used:** 🛠️ HTML, CSS, JavaScript, Git
-- [DCO App](https://github.com/martindocs/bug-tracker-public)
-  - Efficiently tracks, streamlines, and documents changes in engineering drawings, literature, and controlled documents.
-  - **Tools Used:** 🛠️ MongoDB, Express.js, React, Node.js, Git, Sass
 
 ## 🏭 Explore My Organizations
 
