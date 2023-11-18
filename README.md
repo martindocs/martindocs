@@ -22,14 +22,13 @@
 
 Dedicated to building pure, unadorned JavaScript creations for my personal projects. Join for coding, learning, and mastering the fundamentals.
 
-### 🌐 [Open Source Projects](https://github.com/martindocs-contributions)
-
-Contributing, forking, and collaborating. Let's make a difference in the world of open source!
-
 ### 🎓 [Bootcamp](https://github.com/martindocs-bootcamp)
 
 Building bootcamp projects. Currently coding and learning. Join the journey!
 
+### 🌐 [Open Source Projects](https://github.com/martindocs-contributions)
+
+Contributing, forking, and collaborating. Let's make a difference in the world of open source!
 
 ## 🛠️ Skills Showcase
 
@@ -39,7 +38,6 @@ Building bootcamp projects. Currently coding and learning. Join the journey!
 - **Databases:** MongoDB
 - **Tools:** Git, GiHub
 - **Other:** RESTful APIs
-
 
 ## 📱 Let's Connect
 
