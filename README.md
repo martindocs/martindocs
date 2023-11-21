@@ -26,10 +26,6 @@ Dedicated to building pure, unadorned JavaScript creations for my personal proje
 
 Building bootcamp projects. Currently coding and learning. Join the journey!
 
-### 🌐 [Open Source Projects](https://github.com/martindocs-contributions)
-
-Contributing, forking, and collaborating. Let's make a difference in the world of open source!
-
 ## 🛠️ Skills Showcase
 
 - **Languages:** JavaScript (ES6+)
