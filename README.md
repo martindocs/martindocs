@@ -10,7 +10,7 @@
   - Uses Google Books API, leverages 'async/await' for efficiency, and offers a user-friendly interface to search, view, and save books.
   - **Tools Used:** 🛠️ JavaScript (ES6+), Node.js, Express.js, Git
 - [Rock Paper Scissors Lizard Spock](https://github.com/martindocs/rock-paper-scissors-lizard-spock)
-  - The game with responsive layout, maintains score, tracks best score, and utilizes reset features.
+  - The game with responsive layout, maintains score, tracks the best score, and utilizes reset features.
   - **Tools Used:** 🛠️ HTML, CSS, JavaScript, Git
 - [Weather API](https://github.com/martindocs/weather-api)
   - The weather API using The Open Weather Map. 
@@ -25,10 +25,6 @@ Dedicated to building pure, unadorned JavaScript creations for my personal proje
 ### 🎓 [Bootcamp](https://github.com/martindocs-bootcamp)
 
 Building bootcamp projects. Currently coding and learning. Join the journey!
-
-### 🌐 [Open Source Projects](https://github.com/martindocs-contributions)
-
-Contributing, forking, and collaborating. Let's make a difference in the world of open source!
 
 ## 🛠️ Skills Showcase
 
