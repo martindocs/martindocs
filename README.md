@@ -26,6 +26,10 @@ Dedicated to building pure, unadorned JavaScript creations for my personal proje
 
 Building bootcamp projects. Currently coding and learning. Join the journey!
 
+### 📘 [Learning Hub](https://github.com/martindocs-courses)
+
+A hub for my cloned course repositories and coding challenges. Join the learning journey, explore and master new skills together.
+
 ## 🛠️ Skills Showcase
 
 - **Languages:** JavaScript (ES6+)
