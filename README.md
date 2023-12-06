@@ -43,5 +43,6 @@ A hub for my cloned course repositories and coding challenges. Join the learning
 
 - [LinkedIn](https://www.linkedin.com/in/marcin-tatarski/)
 - [Portfolio Website](https://marcin-tatarski.com/)
+- [martin.tatarski@gmail.com](mailto:martin.tatarski@gmail.com)
 
 Feel free to explore, and thank you for visiting! 🌟
