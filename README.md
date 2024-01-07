@@ -33,7 +33,7 @@ A hub for my cloned course repositories and coding challenges. Join the learning
 ## 🛠️ Skills Showcase
 
 - **Languages:** JavaScript (ES6+)
-- **Frontend:** React, Boostrap, HTML5, CSS3, Sass, 
+- **Frontend:** React, Boostrap, HTML5, CSS3, Sass, JQuery
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
 - **Tools:** Git, GiHub
