@@ -35,7 +35,7 @@ A hub for my cloned course repositories and coding challenges. Join the learning
 - **Languages:** JavaScript (ES6+)
 - **Frontend:** React, Boostrap, HTML5, CSS3, Sass, JQuery
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB
+- **Databases:** SQL, MongoDB
 - **Tools:** Git, GiHub
 - **Other:** RESTful APIs
 
