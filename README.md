@@ -9,14 +9,14 @@
 - [Game Hub](https://github.com/martindocs/flash-card-game)
   - Collection of short games that utilize free APIs. Currently, it features two games: Trivia Quiz and Flashcard / Hangman 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
+- [Weather Dashboard](https://github.com/martindocs-bootcamp/mtatarski-weather-dashboard)
+  - The weather Dashboard using The Open Weather Map. 
+  - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
 - [Books Finder API](https://github.com/martindocs/book-finder)
   - Uses Google Books API, leverages 'async/await' for efficiency, and offers a user-friendly interface to search, view, and save books.
   - **Tools Used:** 🛠️ JavaScript (ES6+), Node.js, Express.js
 - [Rock Paper Scissors Lizard Spock](https://github.com/martindocs/rock-paper-scissors-lizard-spock)
   - The game with responsive layout, maintains score, tracks the best score, and utilizes reset features.
-  - **Tools Used:** 🛠️ HTML, CSS, JavaScript
-- [Weather API](https://github.com/martindocs/weather-api)
-  - The weather API using The Open Weather Map. 
   - **Tools Used:** 🛠️ HTML, CSS, JavaScript
 
 ## 🏭 Explore My Organizations
