@@ -7,7 +7,7 @@
   - Bug tracking system with customizable options, detailed info, and easy search/filter capabilities.
   - **Tools Used:** 🛠️ MongoDB, Express.js, React, Node.js, Sass
 - [Game Hub](https://github.com/martindocs/flash-card-game)
-  - Collection of short games that utilize free APIs. Currently, it features two games: Trivia Quiz and Flashcard / Hangman 
+  - The Game Hub project is a team effort to create a bunch of short games using free APIs. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
 - [Weather Dashboard](https://github.com/martindocs/mtatarski-weather-dashboard)
   - The weather Dashboard using The Open Weather Map. 
