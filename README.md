@@ -12,6 +12,9 @@
 - [Weather Dashboard](https://github.com/martindocs/mtatarski-weather-dashboard)
   - The weather Dashboard using The Open Weather Map. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
+- [Readme Generator](https://github.com/martindocs/mtatarski-readme-generator)
+  - The Readme Generator is a Node.js command-line application built to simplify the creation of professional README files for GitHub projects. 
+  - **Tools Used:** 🛠️ JavaScript (ES6+), Node.js
 - [Books Finder API](https://github.com/martindocs/book-finder)
   - Uses Google Books API, leverages 'async/await' for efficiency, and offers a user-friendly interface to search, view, and save books.
   - **Tools Used:** 🛠️ JavaScript (ES6+), API, HTML, CSS
