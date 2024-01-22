@@ -18,9 +18,6 @@
 - [Books Finder API](https://github.com/martindocs/book-finder)
   - Uses Google Books API, leverages 'async/await' for efficiency, and offers a user-friendly interface to search, view, and save books.
   - **Tools Used:** 🛠️ JavaScript (ES6+), API, HTML, CSS
-- [Rock Paper Scissors Lizard Spock](https://github.com/martindocs/rock-paper-scissors-lizard-spock)
-  - The game with responsive layout, maintains score, tracks the best score, and utilizes reset features.
-  - **Tools Used:** 🛠️ JavaScript (ES6+), 🛠️ HTML, CSS
 
 ## 🏭 Explore My Organizations
 
