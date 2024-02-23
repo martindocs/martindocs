@@ -38,7 +38,7 @@ Dedicated to building pure, unadorned JavaScript creations for my personal proje
 
 ### 🎓 [Bootcamp](https://github.com/martindocs-bootcamp)
 
-Building bootcamp projects. Currently coding and learning. Join the journey!
+Building bootcamp projects. Recently completed a coding bootcamp and the journey of learning. Join the experience!
 
 ### 📘 [Learning Hub](https://github.com/martindocs-courses)
 
