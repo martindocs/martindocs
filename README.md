@@ -6,7 +6,7 @@
 
 I'm currently working on an Interview Prep App, a collaborative project that involves using React.js for the frontend, Node.js for the backend, and PostgreSQL for the database. The project aims to provide a platform for interview preparation.
 
-- **Technologies Used:** 🛠️ React.js, Node.js, PostgreSQL, Bootstrap
+- **Technologies Used:** 🛠️ React.js, Node.js, PostgreSQL, Bootstrap, Sass
 - **Collaboration:** This is a collaborative effort, and if you're interested in contributing, feel free to reach out!
 
 Please note that project statuses may change, and collaborations can evolve. Feel free to check the repository for the latest updates.
