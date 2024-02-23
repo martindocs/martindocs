@@ -2,6 +2,17 @@
 
   Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems. Here, you'll find a showcase of my key projects, organized by theme, and a glimpse into my journey of continuous learning and exploration.
 
+## 🚀 Current Project: Interview Prep App
+
+I'm currently working on an Interview Prep App, a collaborative project that involves using React.js for the frontend, Node.js for the backend, and PostgreSQL for the database. The project aims to provide a platform for interview preparation.
+
+- **Technologies Used:** 🛠️ React.js, Node.js, PostgreSQL, Bootstrap
+- **Collaboration:** This is a collaborative effort, and if you're interested in contributing, feel free to reach out!
+
+Please note that project statuses may change, and collaborations can evolve. Feel free to check the repository for the latest updates.
+
+[Check out the Interview Prep App](https://github.com/group-lab/interview-prep-app)
+
 ## 💻 My Work 
 - [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
   - Bug tracking system with customizable options, detailed info, and easy search/filter capabilities.
