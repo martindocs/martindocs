@@ -17,6 +17,9 @@ Please note that project statuses may change, and collaborations can evolve. Fee
 - [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
   - Bug tracking system with customizable options, detailed info, and easy search/filter capabilities.
   - **Tools Used:** 🛠️ MongoDB, Express.js, React, Node.js, Sass
+- [Dishcovery](https://github.com/martindocs-bootcamp/dishcovery)
+  - The DishCovery Project is a fun food web application designed to help users explore new recipes and cooking ideas. This collaborative effort brings together a team of contributors to create a delightful culinary experience.
+  - **Tools Used:** 🛠️ React, Node.js, Sass, Boostrap, API's    
 - [Game Hub](https://github.com/martindocs/flash-card-game)
   - The Game Hub project is a team effort to create a bunch of short games using free APIs. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
@@ -26,9 +29,6 @@ Please note that project statuses may change, and collaborations can evolve. Fee
 - [Readme Generator](https://github.com/martindocs/mtatarski-readme-generator)
   - Command-line application built in Node.js to simplify the creation of professional README files for GitHub projects. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Node.js
-- [Books Finder API](https://github.com/martindocs/book-finder)
-  - Uses Google Books API, leverages 'async/await' for efficiency, and offers a user-friendly interface to search, view, and save books.
-  - **Tools Used:** 🛠️ JavaScript (ES6+), API, HTML, CSS
 
 ## 🏭 Explore My Organizations
 
