@@ -24,10 +24,10 @@ Please note that project statuses may change, and collaborations can evolve. Fee
 - [Game Hub](https://github.com/martindocs/flash-card-game)
   - The Game Hub project is a team effort to create a bunch of short games using free APIs. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
-- [Weather Dashboard](https://github.com/martindocs/mtatarski-weather-dashboard)
+- [Weather Dashboard](https://github.com/martindocs/weather-dashboard)
   - The weather Dashboard using The Open Weather Map. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
-- [Readme Generator](https://github.com/martindocs/mtatarski-readme-generator)
+- [Readme Generator](https://github.com/martindocs/readme-generator)
   - Command-line application built in Node.js to simplify the creation of professional README files for GitHub projects. 
   - **Tools Used:** 🛠️ JavaScript (ES6+), Node.js
 
