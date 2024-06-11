@@ -2,17 +2,27 @@
 
   Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems. Here, you'll find a showcase of my key projects, organized by theme, and a glimpse into my journey of continuous learning and exploration.
 
-## 🚀 Current Project: Interview Prep App
+## 🚀 Current Project: Python Mini Projects
 
-I'm currently working on an Interview Prep App, a collaborative project that involves using React.js for the frontend, Node.js for the backend, and PostgreSQL for the database. The project aims to provide a platform for interview preparation.
+I'm currently working on Python Mini Projects, a series of small projects designed to progressively enhance my Python skills. These projects range from basic scripts to more complex applications, covering various aspects of Python programming.
 
-- **Technologies Used:** 🛠️ React.js, Node.js, PostgreSQL, Bootstrap, Sass, Jest
-- **Learning:** Currently diving into PostgreSQL as part of the project's backend development.
-- **Collaboration:** This is a collaborative effort, and if you're interested in contributing, feel free to reach out!
+- **Technologies Used:** 🛠️ Python (with future plans to incorporate web scraping, desktop applications, web-based projects etc.)
+- **Learning:** Currently focusing on foundational Python skills, with plans to explore different libraries and frameworks as I progress.
+- **Collaboration:** If you're interested in contributing, feel free to reach out!
+
+Project Goals:
+- Build terminal-based applications to solidify basic Python concepts.
+- Develop desktop applications to learn GUI programming.
+- Explore web scraping techniques for data collection and processing.
+- Experiment with web-based applications to understand backend and frontend integration.
+- Data Analysis and Visualization: Utilize libraries such as Pandas, NumPy, and Matplotlib to analyze and visualize data.
+- Automation: Create scripts to automate repetitive tasks, such as file management or web interactions using Selenium.
+- APIs and Web Services: Learn to work with RESTful APIs and create your own APIs using Flask or FastAPI.
+- Database Management: Explore database operations with SQLite or PostgreSQL, including CRUD operations and data modeling.
 
 Please note that project statuses may change, and collaborations can evolve. Feel free to check the repository for the latest updates.
 
-[Check out the Interview Prep App](https://github.com/group-lab/interview-prep-app)
+[Check out the Python Mini Projectsp](https://github.com/martindocs-courses/python-mini-projects)
 
 ## 💻 My Work 
 - [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
