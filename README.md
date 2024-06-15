@@ -22,7 +22,7 @@ Project Goals:
 
 Please note that project statuses may change, and collaborations can evolve. Feel free to check the repository for the latest updates.
 
-[Check out the Python Mini Projectsp](https://github.com/martindocs-courses/python-mini-projects)
+[Check out the Python Mini Projects](https://github.com/martindocs-courses/python-mini-projects)
 
 ## 💻 My Work 
 - [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
