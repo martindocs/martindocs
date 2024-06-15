@@ -4,7 +4,7 @@
 
 ## 🚀 Current Project: Python Mini Projects
 
-I'm currently working on Python Mini Projects, a series of small projects designed to progressively enhance my Python skills. These projects range from basic scripts to more complex applications, covering various aspects of Python programming.
+I'm currently working on Python Mini Projects, a series of small projects, each with a fun twist, designed to progressively enhance my Python skills. These projects range from basic scripts to more complex applications, covering various aspects of Python programming.
 
 - **Technologies Used:** 🛠️ Python (with future plans to incorporate web scraping, desktop applications, web-based projects etc.)
 - **Learning:** Currently focusing on foundational Python skills, with plans to explore different libraries and frameworks as I progress.
