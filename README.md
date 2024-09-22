@@ -1,28 +1,28 @@
 # Hello, I'm Marcin
 
-  Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems. Here, you'll find a showcase of my key projects, organized by theme, and a glimpse into my journey of continuous learning and exploration.
+Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems. Here, you'll find a showcase of my key projects, organized by theme, and a glimpse into my journey of continuous learning and exploration.
 
-## 🚀 Current Project: Python Mini Projects
+## 🚀 Current Project: C# Mini Projects
 
-I'm currently working on Python Mini Projects, a series of small projects, each with a fun twist, designed to progressively enhance my Python skills. These projects range from basic scripts to more complex applications, covering various aspects of Python programming.
+I'm currently working on a series of C# Mini Projects, each designed to progressively enhance my C# skills. These projects range from simple console applications to more complex desktop and web applications, covering various aspects of C# programming.
 
-- **Technologies Used:** 🛠️ Python (with future plans to incorporate web scraping, desktop applications, web-based projects etc.)
-- **Learning:** Currently focusing on foundational Python skills, with plans to explore different libraries and frameworks as I progress.
+- **Technologies Used:** 🛠️ C#, .NET, WPF, ASP.NET (with plans to incorporate more libraries and frameworks as I progress).
+- **Learning:** Currently focusing on foundational C# skills, with plans to delve into advanced topics such as asynchronous programming, design patterns, and more.
 - **Collaboration:** If you're interested in contributing, feel free to reach out!
 
 Project Goals:
-- Build terminal-based applications to solidify basic Python concepts.
-- Develop desktop applications to learn GUI programming.
-- Explore web scraping techniques for data collection and processing.
-- Experiment with web-based applications to understand backend and frontend integration.
-- Data Analysis and Visualization: Utilize libraries such as Pandas, NumPy, and Matplotlib to analyze and visualize data.
-- Automation: Create scripts to automate repetitive tasks, such as file management or web interactions using Selenium.
-- APIs and Web Services: Learn to work with RESTful APIs and create your own APIs using Flask or FastAPI.
-- Database Management: Explore database operations with SQLite or PostgreSQL, including CRUD operations and data modeling.
+- Build console applications to solidify basic C# concepts.
+- Develop desktop applications using WPF to explore UI design and data binding.
+- Create web applications with ASP.NET to understand MVC architecture and backend development.
+- Experiment with game development using Unity and C# scripting.
+- Learn database management with Entity Framework and SQL Server, including CRUD operations and data modeling.
+- Implement design patterns like MVVM and repository pattern in real-world scenarios.
+- Explore asynchronous programming and parallelism for improved performance in applications.
+- Develop RESTful APIs and integrate them with frontend applications.
 
 Please note that project statuses may change, and collaborations can evolve. Feel free to check the repository for the latest updates.
 
-[Check out the Python Mini Projects](https://github.com/martindocs-courses/python-mini-projects)
+[Check out the C# Mini Projects](https://github.com/martindocs-courses/csharp-mini-projects)
 
 ## 💻 My Work 
 - [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
