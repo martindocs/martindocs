@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 
 ## 🚀 Current Project: C# Mini Projects
 
-I'm currently working on a series of C# Mini Projects, each designed to progressively enhance my C# skills. These projects range from simple console applications to more complex desktop and web applications, covering various aspects of C# programming.
+Welcome to the CSharp Playground repository! This space is dedicated to exploring C# through theory, code snippets, and mini projects. The goal of this repository is to be an ever-evolving collection of resources as I dive deeper into C# concepts and build out small programs for practice.
 
 - **Technologies Used:** 🛠️ C#, .NET, WPF, ASP.NET (with plans to incorporate more libraries and frameworks as I progress).
 - **Learning:** Currently focusing on foundational C# skills, with plans to delve into advanced topics such as asynchronous programming, design patterns, and more.
@@ -20,9 +20,7 @@ Project Goals:
 - Explore asynchronous programming and parallelism for improved performance in applications.
 - Develop RESTful APIs and integrate them with frontend applications.
 
-Please note that project statuses may change, and collaborations can evolve. Feel free to check the repository for the latest updates.
-
-[Check out the C# Mini Projects](https://github.com/martindocs-courses/csharp-mini-projects)
+[Check out the C# Playground](https://github.com/martindocs-courses/csharp-playground)
 
 ## 💻 My Work 
 - [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
