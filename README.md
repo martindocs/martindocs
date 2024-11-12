@@ -55,7 +55,7 @@ A hub for my cloned course repositories and coding challenges. Join the learning
 
 ## 🛠️ Skills Showcase
 
-- **Languages:** JavaScript (ES6+), Python
+- **Languages:** JavaScript (ES6+), C#
 - **Frontend:** React, Boostrap, HTML5, CSS3, Sass, JQuery
 - **Backend:** Node.js, Express.js
 - **Databases:** SQL, MongoDB
