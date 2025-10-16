@@ -21,7 +21,7 @@ This GitHub profile is where I keep track of personal projects, learning progres
 
 - **Languages:** JavaScript, C# (learning), Python (automation)
 - **Web:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
-- **Desktop:** WPF, Excel/SolidWorks add-ins
+- **Desktop:** WPF, Microsoft Office/SolidWorks add-ins
 - **Backend:** ASP.NET (learning), Node.js (some experience)
 - **Databases:** Some basic SQL knowledge (still learning)
 - **Tools:** Git, Postman, REST APIs, Visual Studio, VS Code
