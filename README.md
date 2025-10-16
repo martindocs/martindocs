@@ -1,71 +1,43 @@
-# Hello, I'm Marcin
+## 👋 Hi, I’m Marcin
 
-Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems. Here, you'll find a showcase of my key projects, organized by theme, and a glimpse into my journey of continuous learning and exploration.
+I'm a self-driven developer interested in practical coding, building tools that solve real problems, automate tasks, and support everyday work.
 
-## 🚀 Current Project: C# Mini Projects
+This GitHub profile is where I keep track of personal projects, learning progress, and internal tools I build (when I can).
 
-Welcome to the CSharp Playground repository! This space is dedicated to exploring C# through theory, code snippets, and mini-projects. Each project is an opportunity to explore new concepts, solve problems, and refine practical skills.
+---
 
-- **Technologies Used:** 🛠️ C#, .NET, WPF, ASP.NET, Microsoft SQL Server / PostgreSQL (with plans to incorporate more libraries and frameworks as I progress).
-- **Learning:** Currently focusing on foundational C# skills, with plans to delve into advanced topics such as asynchronous programming, design patterns, and more.
-- **Collaboration:** If you're interested in contributing, feel free to reach out!
+### 🧠 Current Focus
 
-Project Goals:
-- Build console applications to solidify basic C# concepts.
-- Develop desktop applications using WPF to explore UI design and data binding.
-- Create web applications with ASP.NET to understand MVC architecture and backend development.
-- Experiment with game development using Unity and C# scripting.
-- Learn database management with Entity Framework and SQL Server, including CRUD operations and data modeling.
-- Implement design patterns like MVVM and repository pattern in real-world scenarios.
-- Explore asynchronous programming and parallelism for improved performance in applications.
-- Develop RESTful APIs and integrate them with frontend applications.
+- **C#** – My main learning goal. I'm building small apps and exploring what I can do with desktop, web, console apps, and Office/SolidWorks add-ins.  
+  Due to IT restrictions at work, I mostly build C# tools for myself — but I'm committed to growing in this area for future backend or internal tool development.
 
-[Check out the C# Playground](https://github.com/martindocs-courses/csharp-playground)
+- **JavaScript** – The language I've worked with the longest. Currently using it for internal web-based tooling at work (HTML/CSS/JavaScript — no backend),  
+  since it's easier to deploy without IT involvement.
 
-## 💻 My Work 
-- [Bug Tracker App](https://github.com/martindocs/bug-tracker-public)
-  - Bug tracking system with customizable options, detailed info, and easy search/filter capabilities.
-  - **Tools Used:** 🛠️ MongoDB, Express.js, React, Node.js, Sass
-- [Dishcovery](https://github.com/martindocs-bootcamp/dishcovery)
-  - The DishCovery Project is a fun food web application designed to help users explore new recipes and cooking ideas. This collaborative effort brings together a team of contributors to create a delightful culinary experience.
-  - **Tools Used:** 🛠️ React, Node.js, Sass, Boostrap, API's    
-- [Game Hub](https://github.com/martindocs/flash-card-game)
-  - The Game Hub project is a team effort to create a bunch of short games using free APIs. 
-  - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
-- [Weather Dashboard](https://github.com/martindocs/weather-dashboard)
-  - The weather Dashboard using The Open Weather Map. 
-  - **Tools Used:** 🛠️ JavaScript (ES6+), Boostrap, JQuery, API's
-- [Readme Generator](https://github.com/martindocs/readme-generator)
-  - Command-line application built in Node.js to simplify the creation of professional README files for GitHub projects. 
-  - **Tools Used:** 🛠️ JavaScript (ES6+), Node.js
+- **Python** – Mostly using for automation (scripting boring or repetitive tasks). I'm still learning and getting more comfortable writing standalone scripts from scratch.
 
-## 🏭 Explore My Organizations
+---
 
-### 📜 [Javascript](https://github.com/martindocs-javascript)
+### 🛠 Tools & Skills
 
-Dedicated to building pure, unadorned JavaScript creations for my personal projects. Join for coding, learning, and mastering the fundamentals.
+- **Languages:** JavaScript, C# (learning), Python (automation)
+- **Web:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Desktop:** WPF, Excel/SolidWorks add-ins
+- **Backend:** ASP.NET (learning), Node.js (some experience)
+- **Databases:** Some basic SQL knowledge (still learning)
+- **Tools:** Git, Postman, REST APIs, Visual Studio, VS Code
 
-### 🎓 [Bootcamp](https://github.com/martindocs-bootcamp)
+---
 
-Building bootcamp projects. Recently completed a coding bootcamp and the journey of learning. Join the experience!
+### 🔍 Why I'm Here
 
-### 📘 [Learning Hub](https://github.com/martindocs-courses)
+I just like to code, keep learning, and document my progress.  
+This profile helps me stay organized and reflect on how far I've come.
 
-A hub for my cloned course repositories and coding challenges. Join the learning journey, explore and master new skills together.
+---
 
-## 🛠️ Skills Showcase
+### 📫 Reach Me
 
-- **Languages:** JavaScript (ES6+), C#
-- **Frontend:** React, Boostrap, HTML5, CSS3, Sass, JQuery
-- **Backend:** Node.js, Express.js
-- **Databases:** SQL, MongoDB
-- **Tools:** Git, GiHub
-- **Other:** RESTful APIs
-
-## 📱 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/marcin-tatarski/)
-- [Portfolio Website](https://marcin-tatarski.com/)
+- [LinkedIn](https://www.linkedin.com/in/marcin-tatarski/)  
+- [Portfolio](https://marcin-tatarski.com/)  
 - [martin.tatarski@gmail.com](mailto:martin.tatarski@gmail.com)
-
-Feel free to explore, and thank you for visiting! 🌟
