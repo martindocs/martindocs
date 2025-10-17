@@ -10,7 +10,7 @@ This GitHub profile is where I keep track of personal projects, learning progres
 
 - **C#** – My main learning goal. I'm building small apps and exploring what I can do with desktop, web, console apps.  
   
-- **JavaScript** – The language I've worked with the longest. Currently using it for internal web-based tooling at work (HTML/CSS/JavaScript).
+- **JavaScript** – The language I've worked with the longest. Currently using it for internal web-based tooling at work.
 
 - **Python** – Mostly using for automation (scripting boring or repetitive tasks).
 
