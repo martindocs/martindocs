@@ -8,12 +8,11 @@ This GitHub profile is where I keep track of personal projects, learning progres
 
 ### 🧠 Current Focus
 
-- **C#** – My main learning goal. I'm building small apps and exploring what I can do with desktop, web, console apps, and Office/SolidWorks add-ins.  
-  Due to IT restrictions at work, I mostly build C# tools for myself — but I'm committed to growing in this area for future backend or internal tool development.
+- **C#** – My main learning goal. I'm building small apps and exploring what I can do with desktop, web, console apps.  
+  
+- **JavaScript** – The language I've worked with the longest. Currently using it for internal web-based tooling at work (HTML/CSS/JavaScript).
 
-- **JavaScript** – The language I've worked with the longest. Currently using it for internal web-based tooling at work (HTML/CSS/JavaScript), since it's easier to deploy without IT involvement.
-
-- **Python** – Mostly using for automation (scripting boring or repetitive tasks). I'm still learning and getting more comfortable writing standalone scripts from scratch.
+- **Python** – Mostly using for automation (scripting boring or repetitive tasks).
 
 ---
 
